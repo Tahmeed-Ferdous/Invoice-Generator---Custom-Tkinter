@@ -9,9 +9,13 @@
 ![interface design](https://github.com/user-attachments/assets/7c7906be-d4f6-4f97-868d-f1e0cbc24da0)
 
 <br>
-<h2>Here is the Template</h2>
+<h2>Here is the Template and the required files</h2>
 <br>
+
+![Required Files](https://github.com/user-attachments/assets/5ef50acb-558e-4f02-8bbe-da24b6282f9d)
 
 ![Template Design](https://github.com/user-attachments/assets/3e4a8575-00af-4a28-8882-5aa760c337c5)
 <h2>Contact me for your own personalized desktop app</h2>
 <h4>--> tahmeedferdous281201@gmail.com</h4>
+
+
