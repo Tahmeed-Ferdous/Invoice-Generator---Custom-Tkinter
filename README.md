@@ -1,5 +1,9 @@
 <h1>A GUI Application of Personalized Invoice Generator</h1>
-<h5>It can generate the given inputs to a beautiful invoice and can make multiple invoice with one input</h5>
+<h3>It can generate the given inputs to a beautiful invoice and can make multiple invoice with one input</h3>
+<h5>Copy the codes from main.py</h5>
+<h5>make the images/ invoices/ PDFs/ directory</h5>
+<h5>pip install customtkinter tkinter doc2template date calendar </h5>
+<h5>It's ready to be launched</h5>
 <br>
 
 ![interface design](https://github.com/user-attachments/assets/7c7906be-d4f6-4f97-868d-f1e0cbc24da0)
