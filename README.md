@@ -5,7 +5,7 @@
 ![interface design](https://github.com/user-attachments/assets/7c7906be-d4f6-4f97-868d-f1e0cbc24da0)
 
 <br>
-<h2>Here is the Templates</h2>
+<h2>Here is the Template</h2>
 <br>
 
 ![Template Design](https://github.com/user-attachments/assets/3e4a8575-00af-4a28-8882-5aa760c337c5)
